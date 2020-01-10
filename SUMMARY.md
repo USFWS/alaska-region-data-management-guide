@@ -2,7 +2,7 @@
 
 * [Alaska Region Interim Data Management User Guide](README.md)
 * [Background](background/README.md)
-  * [The Big Picture: Integrating Data Management with Project Management](background/the-big-picture-integrating-data-management-with-project-management.md)
+  * [Integrating Data Management with Project Management](background/the-big-picture-integrating-data-management-with-project-management.md)
   * [Definition of Project and Product \(aka Data Resources\)](background/definition-of-project-and-product-aka-data-resources.md)
 * [Four Fundamental Activities of Data Management](four-fundamental-activities-of-data-management/README.md)
   * [Establish Roles and Responsibilities](four-fundamental-activities-of-data-management/establish-roles-and-responsibilities.md)
