@@ -8,3 +8,5 @@ When naming the project folder \(short title\), files within, and even variable 
 * Use only letters, numbers, dashes, “-“, and underscores, “\_”. Do not use spaces or any other characters.
 * Avoid using “draft”, “version”, or “final” in file names. Use date \(in ISO format, see above\) to distinguish versions.
 
+![Example of naming convention](../.gitbook/assets/password-examples.PNG)
+

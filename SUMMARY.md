@@ -20,6 +20,5 @@
     * [Best Practices with Source Data](file-organization-and-best-practices/best-practices-for-common-data-types/best-practices-with-source-data.md)
 * [Appendix A: Interim Data Management Quick Guide](appendix-a-interim-data-management-quick-guide.md)
 * [Appendix B: Tree Structure for File Organization of the Archive Record](appendix-b-tree-structure-for-file-organization-of-the-archive-record.md)
-* [Appendix C: Example of untidy vs. tidy tabular data](appendix-c-example-of-untidy-vs.-tidy-tabular-data.md)
 * [Glossary](glossary.md)
 

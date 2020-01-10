@@ -37,9 +37,7 @@ _Descriptions or details of the file/folder given in parentheses._
   * **source\_type\_of\_data\_x**
     * raw\_data.csv 
   * **source\_type\_of\_data\_y** \(repeat as needed\)
-    * images/text notes/sounds/geo points or lines/etc. 	
+    * images/text notes/sounds/geo points or lines/etc. 
 
-			
-
-
+![Example of Archive Layout Explained Above ](.gitbook/assets/archive-layout.PNG)
 
