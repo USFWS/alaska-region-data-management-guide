@@ -1,6 +1,10 @@
 # Obtaining a Digital Object Identifier \(DOI\)
 
-A digital object identifier \(DOI; [www.doi.org](www.doi.org)\) is a unique identifier permanently associated with a data resource \(csv file, report, published paper, etc.\). The [FWS DOI Tool](https://www1.usgs.gov/fws/doi/) allows you to manage DOIs and associate metadata with them. When you 'click' on a DOI link or enter the link directly at www.doi.org, you are redirected to the website given in the resource's metadata. The main advantage of a DOI is that if the underlying web link changes, you just have to update the DOI metadata. 
+A digital object identifier \(DOI; [www.doi.org](www.doi.org)\) is a unique identifier permanently associated with a data resource \(csv file, report, published paper, etc.\). 
+
+![Anatomy of a Digital Object Identifier URL](../.gitbook/assets/anatomydoi.png)
+
+The [FWS DOI Tool](https://www1.usgs.gov/fws/doi/) allows you to manage DOIs and associate metadata with them. When you 'click' on a DOI link or enter the link directly at www.doi.org, you are redirected to the website given in the resource's metadata. The main advantage of a DOI is that if the underlying web link changes, you just have to update the DOI metadata. 
 
 {% hint style="info" %}
 Do not create a DOI for published journal articles or anything else that already has a DOI.  Use the existing DOI assigned by the publisher.
