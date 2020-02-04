@@ -1,6 +1,6 @@
 # Appendix A: Interim Data Management Quick Guide
 
-NOTE: For Completed projects, the Data Steward will often perform the actions assigned to the Data Originator and Project Manager when those roles are unable to be filled. Whenever possible, the Data Originator should author product metadata.
+NOTE: For Completed projects, the Data Steward will often perform the actions assigned to the Data Originator and Project Manager, when those roles are unable to be filled. Whenever possible, the Data Originator should author product metadata.
 
 <table>
   <thead>
@@ -40,6 +40,12 @@ NOTE: For Completed projects, the Data Steward will often perform the actions as
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">&#x25A1; <a href="four-fundamental-activities-of-data-management/quality-management.md">Document QA/QC procedures used for the data products</a>
+      </td>
+      <td style="text-align:left">Data Originator</td>
+      <td style="text-align:left">Data Steward</td>
+    </tr>
+    <tr>
       <td style="text-align:left">&#x25A1; <a href="https://ak-region-dst.gitbook.io/alaska-region-mdeditor-interim-user-guide/project-entry-guidance">Create the project metadata record</a> 
       </td>
       <td style="text-align:left">Project Manager</td>
@@ -68,12 +74,6 @@ NOTE: For Completed projects, the Data Steward will often perform the actions as
       <td
       style="text-align:left">Data Originator</td>
         <td style="text-align:left">Data Steward</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x25A1;<a href="four-fundamental-activities-of-data-management/quality-management.md"> Document QA/QC procedures used for the data products</a>
-      </td>
-      <td style="text-align:left">Data Originator</td>
-      <td style="text-align:left">Data Steward</td>
     </tr>
     <tr>
       <td style="text-align:left">&#x25A1; Document any dependencies between source data and project-derived

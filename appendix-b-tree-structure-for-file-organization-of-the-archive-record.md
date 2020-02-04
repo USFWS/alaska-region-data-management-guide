@@ -2,7 +2,7 @@
 
 _Descriptions or details of the file/folder given in parentheses._ 
 
-**root** \(project name; takes the format ProgramAcronym\_SequentialNumber\_ShortTitle, e.g., MBMWF\_011\_YKDeltaNestPlot would stand for the Migratory Bird Management Waterfowl Program, YK  Delta Nest Plot Survey, and it was the 11th archive record created for that program\)
+**root** \(project name; takes the format ProgramAcronym\_SequentialNumber\_ShortTitle, e.g., MBMWA\_011\_YKDeltaNestPlot would stand for the Migratory Bird Management Waterfowl Program, YK  Delta Nest Plot Survey, and it was the 11th archive record created for that program\)
 
 * **changelog.txt** \(text file for the data custodian to record activities in the archive record\)
 * **admin** \(material related to general project administration; could be replicated each year for multiyear projects, i.e., admin2019, admin2020\)
@@ -37,7 +37,11 @@ _Descriptions or details of the file/folder given in parentheses._
   * **source\_type\_of\_data\_x**
     * raw\_data.csv 
   * **source\_type\_of\_data\_y** \(repeat as needed\)
-    * images/text notes/sounds/geo points or lines/etc. 
+    * images/text notes/sounds/geo points or lines/etc. 	
 
-![Example of Archive Layout Explained Above ](.gitbook/assets/archive-layout.PNG)
+			
+
+![Visual Example of the File Organization of the Archive Record](.gitbook/assets/archive-layout.PNG)
+
+
 

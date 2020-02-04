@@ -1,8 +1,6 @@
 ---
-description: AK Region Data Stewardship Team
+description: AK Region Data Stewardship Team (v.3)
 ---
 
 # Alaska Region Interim Data Management User Guide
-
-January 7, 2020
 
