@@ -1,6 +1,6 @@
 # Obtaining a Digital Object Identifier \(DOI\)
 
-A digital object identifier \(DOI; [www.doi.org](www.doi.org)\) is a unique identifier permanently associated with a data resource \(csv file, report, published paper, etc.\). 
+A digital object identifier \(DOI; [www.doi.org](www.doi.org)\) is a unique identifier permanently associated with a data resource \(csv file, report, published paper, etc.\). For example, below is the DOI for this guide. 
 
 ![Anatomy of a Digital Object Identifier URL](../.gitbook/assets/anatomydoi.png)
 
